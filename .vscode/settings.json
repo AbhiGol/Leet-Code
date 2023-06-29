@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": [
+        "Java/5. Sum Multiples",
+        "Java/4. Maximum Sum With Exactly K Elements",
+        "Java/3. Search Insert Position",
+        "Java/2. Find the Index of the First Occurrence in a String",
+        "Java/1. Matrix Diagonal Sum",
+        "Java/6. Separate the Digits in an Array",
+        "Java"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}

@@ -1,4 +1,4 @@
-nums = [1,2,4,3]
+nums = [23, 456, 71]
 digit_sum = 0
 number_sum = 0
 for num in nums:

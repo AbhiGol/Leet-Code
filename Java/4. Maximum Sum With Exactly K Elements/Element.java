@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Sum {
+public class Element {
     public static void main(String[] args) {
         int[] nums = { 4, 2, 9, 7, 6 };
         int k = 3;
